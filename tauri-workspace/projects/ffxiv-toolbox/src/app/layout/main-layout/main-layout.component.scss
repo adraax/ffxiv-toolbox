@@ -1,0 +1,10 @@
+@import '@taiga-ui/core/styles/taiga-ui-local';
+
+:host {
+  display: block;
+}
+html,
+body {
+  background: var(--tui-base-01);
+  height: auto;
+}
